@@ -9,7 +9,7 @@ PMOD PCB module for several clock modules
 ![alt text](clocks_pmod_bot.png)
 
 Schematic:
-[clocks_pmod.pdf](clocks_pmod.pdf)
+[clocks_pmod.pdf](https://github.com/s59mz/kicad-clocks-pmod/raw/main/clocks_pmod.pdf)
 
 BOM:
 [clocks_pmod.csv](clocks_pmod.csv)
