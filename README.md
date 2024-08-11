@@ -1,5 +1,5 @@
 # clocks_pmod
-PMOD PCB module for 7-Segment Display 
+PMOD PCB module for several clock modules 
 
 
 ![alt text](clocks_pmod_3d.png)
@@ -15,4 +15,4 @@ BOM:
 [clocks_pmod.csv](clocks_pmod.csv)
 
 Gerbers:
-[gerbers.zip](https://github.com/s59mz/clocks_pmod/raw/main/gerbers.zip)
+[gerbers.zip](https://github.com/s59mz/kicad-clocks-pmod/raw/main/gerbers.zip)
