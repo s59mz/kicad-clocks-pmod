@@ -1,5 +1,5 @@
 # clocks_pmod
-PMOD PCB module for several clock modules 
+PMOD PCB module for Si5351 and CJMCU-9833 Clock Synchronizer modules 
 
 
 ![alt text](clocks_pmod_3d.png)
